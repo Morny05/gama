@@ -1,3 +1,3 @@
 function a() {
-    alert(5);
+    confirm(5);
 }
